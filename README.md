@@ -4,12 +4,12 @@ The project is a combination of a stop watch as well as a clock and a weather ap
 and its displying it to the user
 
 
-<img src="https://github.com/404dn/Weather-Clock-Application/blob/master/pictuers/1.jpg" width="450" height="250">
+<img src="https://github.com/404dn/Weather-Clock-Application/blob/master/pictuers/1.jpg" width="450" height="300">
 
 
 
-<img src="https://github.com/404dn/Weather-Clock-Application/blob/master/pictuers/2.jpg" width="450" height="250">
+<img src="https://github.com/404dn/Weather-Clock-Application/blob/master/pictuers/2.jpg" width="450" height="300">
 
 
 
-<img src="https://github.com/404dn/Weather-Clock-Application/blob/master/pictuers/3.jpg" width="450" height="250">
+<img src="https://github.com/404dn/Weather-Clock-Application/blob/master/pictuers/3.jpg" width="450" height="300">
